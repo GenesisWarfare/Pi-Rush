@@ -10,5 +10,5 @@ Your goal : climb as high as possible, improve your memory, and beat your person
 
 ## 📜 Project Files
 
-### [Formal Elements Document](formal-elements.md)
+ - [Formal Elements Document](formal-elements.md)
 
