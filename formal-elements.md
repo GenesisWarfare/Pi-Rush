@@ -93,10 +93,12 @@ Search terms used: “Pi memorization game,” “math memory game,” “Charac
 ## Similar games:
 
 ## Sling Kong - An animal launching game where you progress upwards.
-![WhatsApp Image 2025-11-03 at 14 27 06](https://github.com/user-attachments/assets/701d5457-0a80-408c-b554-f0e06661adc2)
+![ImageSlingKong](https://github.com/user-attachments/assets/58d90137-aad0-4d87-afca-d5e0cd406ea2)
+
 
 ##Pi Memorization - A simple typing based memorization game for Pi.
-![WhatsApp Image 2025-11-03 at 14 28 13](https://github.com/user-attachments/assets/c2380199-19cf-4bf6-815e-fddccbece8e7)
+![ImagePiWebsite](https://github.com/user-attachments/assets/d8bedadd-a7cb-404d-ac09-8545bbb778e7)
+
 
 
 ## Another game fegsregssregsre--------feds-fge-dg
