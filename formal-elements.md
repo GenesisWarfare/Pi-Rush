@@ -1,4 +1,4 @@
-# 🔢 Pi Jumper
+# 🔢 Pi Rush
 
 Sling, land, remember — climb the digits of Pi!
 
