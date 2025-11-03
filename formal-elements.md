@@ -11,6 +11,9 @@ Pi Jumper is a fast-paced memory and timing game where the player launches a cha
 Mobile
 
 Screenshot:
+<img width="404" height="722" alt="screenshot_concept_Pi" src="https://github.com/user-attachments/assets/de8f4165-c038-459f-9c93-df3a70327ca4" />
+
+
 
 ## Formal Elements:
 ### 1. Players
