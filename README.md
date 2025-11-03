@@ -12,4 +12,3 @@ Your goal : climb as high as possible, improve your memory, and beat your person
 
 ### [Formal Elements Document](formal-elements.md)
 
-### “Pi Rush makes memorizing numbers a high-flying adventure!” 🚀
