@@ -8,9 +8,10 @@ Pi Jumper is a fast-paced memory and timing game where the player launches a cha
 
 ## Platform:
 
-Mobile
+Mobile only
 
-Screenshot:
+## Screenshot:
+
 <img width="404" height="722" alt="screenshot_concept_Pi" src="https://github.com/user-attachments/assets/de8f4165-c038-459f-9c93-df3a70327ca4" />
 
 
@@ -30,11 +31,11 @@ Primary objective: Progress as far as possible by correctly landing on the next 
 
 ### 3. Processes
 
-Game start (first 30 sec): Player sees first circle marked “3,” tutorial overlay shows how to sling the character to the next circle. Interaction via mouse click, touch, or keyboard.
+Game start (first 30 sec): Player sees first circles, one of them marked “3”, the other 2 circles on the first level with random digits (wrong options). tutorial overlay shows how to sling the character to the next circle. Interaction via touch and hold.
 
-Core gameplay: Launch character from circle to circle, following Pi sequence. Each correct digit moves the player forward; mistakes send the player back. Repeat until high score or full sequence completed.
+Core gameplay: Launch character from circle to circle, following Pi sequence. Each correct digit moves the player forward; mistakes send the player back to the start.
 
-Endgame: Player fails a jump or completes a target sequence. Score displayed, ranking updated.
+Endgame: Player fails a jump. Score displayed, ranking updated.
 
 Learning integration: Memorization is directly linked to progression — players practice recalling digits naturally through gameplay, without explicit study.
 
