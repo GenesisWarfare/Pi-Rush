@@ -94,16 +94,22 @@ Search terms used: “Pi memorization game,” “math memory game,” “Charac
 
 ## Sling Kong - An animal launching game where you progress upwards.
 
+https://play.google.com/store/apps/details?id=com.protostar.sling&pli=1
+
 ![ImageSlingKong](https://github.com/user-attachments/assets/58d90137-aad0-4d87-afca-d5e0cd406ea2)
 
 
 ## Pi Memorization - A simple typing based memorization game for Pi.
+
+https://memory-pi.andreharnist.fr/#game
 
 ![ImagePiWebsite](https://github.com/user-attachments/assets/d8bedadd-a7cb-404d-ac09-8545bbb778e7)
 
 
 
 ## How Fast Can You Type Pi
+
+https://www.speedtypingonline.com/games/type-pi
 
 <img width="960" height="541" alt="image" src="https://github.com/user-attachments/assets/4d0137df-ee2e-47ca-ab3b-b6db68ad0fd4" />
 
